@@ -1,0 +1,18 @@
+#signin {
+    /*color:black;*/
+    background-image: linear-gradient(to right, white, rgba(48, 143, 25, 0.952));
+    font-size: 2em;
+    font-family: 'Dosis', sans-serif;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(6, 99, 18);
+    border-width: 5px;
+    margin-top: 20px;
+    padding: 10px 80px;
+    /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+    text-shadow: 0 0 3px #ffffff, 0 0 5px yellow;
+    box-shadow: 10px 10px 5px rgb(203, 241, 203);
+   }
+  a:hover {
+    color:white;
+      }
